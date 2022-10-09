@@ -1,1 +1,2 @@
-# Open_CV_face-recog
+# OpenCV
+OpenCV 3 with Python 3 2018
